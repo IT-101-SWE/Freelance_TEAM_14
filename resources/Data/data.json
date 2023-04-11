@@ -1,0 +1,46 @@
+// comment in json by using /
+/*
+user ( id, name, mail, password, cv, job)
+job  ( id, title, description, skills, type)
+*/
+
+{
+  "Users":
+          [
+            {
+              "id": 1,
+              "name": "admin",
+              "password": "admin123#b",
+              "email": "admin@mail.com"
+            },
+            {
+              "id": 2,
+              "name": "support",
+              "email": "support@mail.com",
+              "password": "support123#b"
+            }
+          ],
+  "Jobs":
+          [
+            {
+              "id": 1,
+              "title": "Software Engineering",
+              "description": "basics about python and c++",
+              "skills": "soft skills, web technology",
+              "type": {
+                        "full-time": 8,
+                        "part-time":3
+                      }
+            },
+            {
+              "id": 2,
+              "title": "Software Engineering",
+              "description": "basics about java and php",
+              "skills": "soft skills, web technology",
+              "type": {
+                        "full-time": 9,
+                        "part-time": 4
+                      }
+            }
+          ]
+}
