@@ -1,0 +1,63 @@
+{
+    "nextId": 9,
+    "user": [
+        {
+            "id": 1,
+            "name": "admin",
+            "email": "admin@mai.com",
+            "pass": "Admin12345#"
+        },
+        {
+            "id": 2,
+            "name": "support",
+            "email": "support@mai.com",
+            "pass": "Support12345#"
+        },
+        {
+            "id": 3,
+            "name": "Medo",
+            "email": "M@mai.cmo",
+            "pass": "M1234567#",
+            "gender": "Male",
+            "level": "Expert"
+        },
+        {
+            "id": 4,
+            "name": "Ahmed",
+            "email": "Ahmed@mail.com",
+            "pass": "A1234567$",
+            "gender": "Female",
+            "level": "Expert"
+        },
+        {
+            "id": 5,
+            "name": "Mute",
+            "email": "Ahmed63@gmail.com",
+            "pass": "Ahmed123456#",
+            "gender": "Male",
+            "level": "Expert"
+        },
+        {
+            "id": 6,
+            "name": "xmedo",
+            "email": "xmedo@mail.com",
+            "pass": "Xmedoahmed#",
+            "gender": "Male",
+            "level": "Expert"
+        },
+        {
+            "id": 7,
+            "name": "Mutezz",
+            "email": "muz@mail.com",
+            "pass": "M1234567#",
+            "gender": "Male",
+            "level": "Expert"
+        },
+        {
+            "id": 8,
+            "name": "sdsd",
+            "email": "adsdsd@ma.com",
+            "password": "$2y$10$G34XUdosY.bgxOcw3btcF.iMYaAt8pr4ietl7rra5046yAbyZd\/km"
+        }
+    ]
+}
