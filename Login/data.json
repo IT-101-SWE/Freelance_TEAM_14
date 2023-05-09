@@ -1,0 +1,28 @@
+{
+  "user":
+  [
+    {
+      "id":1,
+      "name":"admin",
+      "email":"admin@mai.com",
+      "pass":"Admin12345#"
+    },
+    {
+      "id":2,
+      "name":"support",
+      "email":"support@mai.com",
+      "pass":"Support12345#"
+    },
+    {
+      "id":3,
+      "name":"Medo",
+      "email":"M@mai.cmo",
+      "pass":"M1234567#",
+      "gender":"Male",
+      "level":"Expert"
+    }
+    ],
+
+  "job":
+  []
+}
