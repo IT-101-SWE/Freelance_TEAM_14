@@ -1,0 +1,62 @@
+{
+    "nextId": 3,
+    "user": [
+        {
+            "uid": null,
+            "name": "Admin",
+            "email": "admin@mail.com",
+            "password": "$2y$10$3rBbOHJ2FOz5c\/3vafkfaO4b4z58ctYJ5GdnVC47LDDejW7O78K7e",
+            "uState": 0
+        },
+        {
+            "uid": 1,
+            "name": "Ahmed",
+            "email": "Ahmed1@mail.com",
+            "password": "$2y$10$744qi1nXcIt.BTCzxMsQGeRMJ8CyFekWtRx\/U8Kk42E8su8iPzGgC",
+            "uState": 1,
+            "jobt": "sw1",
+            "jobd": null,
+            "number": "1111111111",
+            "skills": "python,",
+            "wHours": null
+        },
+        {
+            "uid": 2,
+            "name": "Test",
+            "email": "test@mail.com",
+            "password": "$2y$10$VMmpDuTtioFM8KazEbwwJuW3ZpnUHn\/GO.rreQOy\/1BhtiTle2bfy",
+            "uState": 1,
+            "jobt": "it sec",
+            "jobd": null,
+            "number": "111111",
+            "skills": "python, network",
+            "wHours": null
+        }
+    ],
+    "job": [
+        {
+            "jobId": 1,
+            "jobt": "it2",
+            "jobd": "anthius"
+        },
+        {
+            "jobId": 2,
+            "jobt": "it4",
+            "jobd": "anthius"
+        },
+        {
+            "jobId": 3,
+            "jobt": "it6",
+            "jobd": "anthius"
+        },
+        {
+            "jobt": "it sec1",
+            "skills": "python, network",
+            "wHoursp": "3",
+            "wHoursf": "2",
+            "jobd": "dsds",
+            "jobId": 4
+        }
+    ],
+    "nextJobId": 5
+}
